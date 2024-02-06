@@ -18,8 +18,8 @@
 
 ### Forums
 
-- [Retro Handhelds 🇺🇸](https://discord.gg/RetroHandhelds)
-- [joanilson41 🇧🇷](https://t.me/+O_6Wc5fdmjM2NmUx)
+- [Retro Handhelds](https://discord.gg/RetroHandhelds) 🇺🇸
+- [joanilson41](https://t.me/+O_6Wc5fdmjM2NmUx) 🇧🇷
 
 ### Roms
 
@@ -42,4 +42,4 @@
 
 ### Tutorials
 
-- [Remove ArkOS dotfiles](https://gist.github.com/kvnol/5964b6ffa276749a47f4abf264ef77fa)
+- 📖 [Remove ArkOS dotfiles](https://gist.github.com/kvnol/5964b6ffa276749a47f4abf264ef77fa) 🇺🇸
