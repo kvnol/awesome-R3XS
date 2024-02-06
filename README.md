@@ -14,6 +14,7 @@
 ### Systems
 
 - [ArkOS - R3XS](https://aeolusux.github.io/ArkOS-R3XS/)
+- [ArkOS - RG351MP](https://github.com/christianhaitian/arkos/wiki#download-links)
 
 ### Forums
 
