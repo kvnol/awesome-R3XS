@@ -1,6 +1,6 @@
 # Awesome R3XS
 
-An awesome list of links about R3XS (R35s/R36s) handheld consoles.
+:joystick: An awesome list of links about R3XS (R35s/R36s) handheld consoles.
 
 ## Summary
 
