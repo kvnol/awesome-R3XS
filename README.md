@@ -37,6 +37,7 @@
 ### Compatibility 
 
 - [SD Cards and Wifi Dongle - Compatibility List](https://docs.google.com/spreadsheets/d/1gWxtr-GmwWop-_qGUq022RXxK2aTLpPg9Qra68TQLI8/edit#gid=0)
+- [Compatible Consoles/Emulators](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information#emulators)
 
 ### Tutorials
 
