@@ -10,6 +10,7 @@
 - [Metadata](#Metadata)
 - [Compatibility](#Compatibility)
 - [Tutorials](#Tutorials)
+- [Files](#Files)
 
 ### Systems
 
@@ -43,3 +44,7 @@
 ### Tutorials
 
 - 📖 [Remove ArkOS dotfiles](https://gist.github.com/kvnol/5964b6ffa276749a47f4abf264ef77fa) 🇺🇸
+
+### Files
+
+- [.DTB File](https://github.com/AeolusUX/R36S-DTB)
