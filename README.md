@@ -48,3 +48,4 @@
 ### Files
 
 - [.DTB File](https://github.com/AeolusUX/R36S-DTB)
+- [Custom Boot/Loading Screen - R36s Outline](https://github.com/sect2k/r36s-outline)
