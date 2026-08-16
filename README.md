@@ -10,6 +10,7 @@
 - [Metadata](#Metadata)
 - [Compatibility](#Compatibility)
 - [Tutorials](#Tutorials)
+- [Apps & Homebrew](#apps--homebrew)
 - [Files](#Files)
 
 ### Systems
@@ -44,6 +45,11 @@
 ### Tutorials
 
 - 📖 [Remove ArkOS dotfiles](https://gist.github.com/kvnol/5964b6ffa276749a47f4abf264ef77fa) 🇺🇸
+
+### Apps & Homebrew
+
+- [Pocket Clawd](https://github.com/ShellPayant/pocket-clawd) - Virtual pet that reacts to your Claude Code usage, drawn straight to the framebuffer ([demo](https://shellpayant.github.io/pocket-clawd/)) 🇺🇸
+- [Runner Protocol](https://github.com/ShellPayant/runner-protocol) - Extraction game played against your real Claude Code usage limits ([demo](https://shellpayant.github.io/runner-protocol/)) 🇺🇸
 
 ### Files
 
