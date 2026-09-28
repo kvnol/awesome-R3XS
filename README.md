@@ -44,6 +44,8 @@
 ### Tutorials
 
 - 📖 [Remove ArkOS dotfiles](https://gist.github.com/kvnol/5964b6ffa276749a47f4abf264ef77fa) 🇺🇸
+- 📖 [R36H manual: buttons, hotkeys & charging](https://r36h.com/guides/getting-started) 🇺🇸
+- 📖 [Identify your R36H board (V20 vs V21)](https://r36h.com/guides/r36h-board-check/) 🇺🇸
 
 ### Files
 
